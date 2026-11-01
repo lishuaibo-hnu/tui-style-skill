@@ -1,0 +1,4 @@
+interface:
+  display_name: "专业 TUI 风格"
+  short_description: "设计专业、美观的终端界面：分栏、配色、中文排版与交互验证"
+  default_prompt: "使用 $tui-style，为这个终端应用设计并实现专业、美观、易用的界面。"
